@@ -1,0 +1,28 @@
+.btn {
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+
+    margin: 0 5px;
+    width: 150px;
+
+    border: solid 1px transparent;
+    border-radius: 4px;
+
+    padding: 0.5em 1em;
+
+    color: #ffffff;
+    background-color: #9555af;
+
+    outline: none;    
+}
+
+.btn:hover {
+  color: #9555af;
+  border-color: currentColor;
+  background-color: white;
+}
+  
+.btn::-moz-focus-inner {
+    border: none;
+  }
