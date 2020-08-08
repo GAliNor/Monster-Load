@@ -2,7 +2,7 @@
   "name": "monster-load",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GAliNor.github.io/Monster-Load",
+  "homepage": "https://GAliNor.github.io/monster-load",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
